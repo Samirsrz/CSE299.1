@@ -117,7 +117,7 @@ const SignUp = () => {
 
            }
        
-           const {data} = axiosPublic.post('/user-info', currentUser)
+        //   const {data} = axiosPublic.post('/user-info', currentUser)
   //         console.log('response ', data);
           
 

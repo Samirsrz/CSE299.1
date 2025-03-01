@@ -28,6 +28,7 @@ import SignUp from "../pages/SignUp";
             path:'/signup',
             element:<SignUp></SignUp>
         },
+      
      
   
       ]
